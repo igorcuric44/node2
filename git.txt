@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "First Commit"
+git remote add origin [url]
+git push -u origin master
+
+git pull --allow-unrelated-histories
+git add *
+git commit -m "commit message"
+git push
+
